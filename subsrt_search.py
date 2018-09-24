@@ -1,3 +1,6 @@
+'''
+Looking for substring in a string with find
+'''
 
 
 def substr_search(genome, substring):
@@ -7,15 +10,7 @@ def substr_search(genome, substring):
         print("No")
     
 
-
-
-
-
-
 def main():
-    genome = input()
-    substring = input()
-    substr_search(genome, substring)
     genome = input()
     substring = input()
     substr_search(genome, substring)
