@@ -1,4 +1,4 @@
-
+''' The function looks for pattern in a sequence'''
 
 
 def PatternCount(Text, Pattern):
